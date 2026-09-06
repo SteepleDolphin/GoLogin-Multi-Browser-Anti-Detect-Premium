@@ -1,0 +1,23 @@
+{
+  "repo": "gologin-multi-browser-anti-detect-premium",
+  "product": "GoLogin Multi Browser Anti Detect Premium",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "utility",
+  "topics": [
+    "gologin",
+    "multi-profile-browser",
+    "fingerprint-profiles",
+    "team-browser",
+    "proxy-workspaces",
+    "gologin-setup-failed-fix",
+    "how-to-install-gologin",
+    "gologin-windows",
+    "gologin-desktop-2026",
+    "gologin-desktop-package"
+  ],
+  "site": "toolix.me"
+}
